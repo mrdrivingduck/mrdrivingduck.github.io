@@ -336,7 +336,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: java 2s ease;
 }
 .sql {
-	width: 40%;
+	width: 30%;
 	-moz-animation: sql 2s ease;
   	-webkit-animation: sql 2s ease;
 }
@@ -346,12 +346,12 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: r 2s ease;
 }
 .python {
-	width: 10%;
+	width: 40%;
 	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
 .verilog {
-	width: 40%;
+	width: 25%;
 	-moz-animation: verilog 2s ease;
   	-webkit-animation: verilog 2s ease;
 }
@@ -366,7 +366,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes sql {
 	0%   { width: 0px;  }
-	100% { width: 40%;  }
+	100% { width: 30%;  }
 }
 @-moz-keyframes r {
 	0%   { width: 0px;  }
@@ -374,11 +374,11 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes python {
 	0%   { width: 0px;  }
-	100% { width: 10%;  }
+	100% { width: 40%;  }
 }
 @-moz-keyframes verilog {
 	0%   { width: 0px;  }
-	100% { width: 40%;  }
+	100% { width: 25%;  }
 }
 
 @-webkit-keyframes cpp {
@@ -391,7 +391,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes sql {
 	0%   { width: 0px;  }
-	100% { width: 40%;  }
+	100% { width: 30%;  }
 }
 @-webkit-keyframes r {
 	0%   { width: 0px;  }
@@ -399,11 +399,11 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes python {
 	0%   { width: 0px;  }
-	100% { width: 10%;  }
+	100% { width: 40%;  }
 }
 @-webkit-keyframes verilog {
 	0%   { width: 0px;  }
-	100% { width: 40%;  }
+	100% { width: 25%;  }
 }
 
 /* ------------------------------------------------------------------ */
