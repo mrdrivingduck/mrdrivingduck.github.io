@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background/java.jpg) no-repeat center;
+   background: #161415 url(../images/header-background/apple4.jpg) no-repeat center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -267,7 +267,7 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-   font: 16px/24px 'Yu Gothic UI Semilight', serif;
+   font: 16px/24px 'Merriweather-Light', serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;

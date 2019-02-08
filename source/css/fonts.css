@@ -138,6 +138,50 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Merriweather-Regular';
+    src: url('fonts/Merriweather/Merriweather-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Merriweather-Bold';
+    src: url('fonts/Merriweather/Merriweather-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Merriweather-Light';
+    src: url('fonts/Merriweather/Merriweather-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Merriweather-Italic';
+    src: url('fonts/Merriweather/Merriweather-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueLight';
+    src: url('fonts/Helvetica-Neue/HelveticaNeueLight.woff') format('woff'),
+         url('fonts/Helvetica-Neue/HelveticaNeueLight.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelveticaNeueBold';
+    src: url('fonts/Helvetica-Neue/HelveticaNeueBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelveticaNeueItalic';
+    src: url('fonts/Helvetica-Neue/HelveticaNeueItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
 /*
  * FIXED for Font-Face Chrome Rendering
