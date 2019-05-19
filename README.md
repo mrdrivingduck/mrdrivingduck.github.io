@@ -1,7 +1,9 @@
 # mrdrivingduck.github.io
 🦆 My personal homepage.
 
-@Created by: Mr Dk. 2018.12, Nanjing, Jiangsu, China.
+Created by: Mr Dk. 
+
+2018.12 @Nanjing, Jiangsu, China
 
 ---
 
