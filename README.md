@@ -13,7 +13,7 @@ The page is built by the private project _duckling_
 
 It was refactored to a dynamic blog system in the summer of 2019.
 
-Using GitHub & GitHub API as back end.
+Using GitHub as back end, supported by GitHub API v3.
 
 ## Dependencies
 
