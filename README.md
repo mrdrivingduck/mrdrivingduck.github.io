@@ -1,4 +1,5 @@
 # mrdrivingduck.github.io
+
 🦆 My personal homepage.
 
 Created by : Mr Dk. 
@@ -21,6 +22,7 @@ Using GitHub as back end, supported by GitHub API v3.
 * [Vuex](https://vuex.vuejs.org/) - 🗃️ Centralized State Management for Vue.js.
 * [Vue Router](https://router.vuejs.org/) - 🚦 The official router for Vue.js.
 * [Vue CLI](https://cli.vuejs.org/) - 🛠️ Standard Tooling for Vue.js Development.
+* [Vue Clipboard 2](https://github.com/Inndy/vue-clipboard2) - A simple vue2 binding to clipboard.js.
 * [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
 * [Element](https://element.eleme.io/) - A Vue.js 2.0 UI Toolkit for Web.
 * [Marked.js](https://marked.js.org/) - A markdown parser and compiler. Built for speed.
@@ -30,6 +32,10 @@ Using GitHub as back end, supported by GitHub API v3.
 * [GitHub API v3](https://developer.github.com/v3/) - The official GitHub REST API v3.
 * [GitHub Pages](https://pages.github.com/) - Websites for you and your projects.
 * [Aliyun](https://www.aliyun.com/) - More Than Just Cloud.
+
+## License
+
+Copyright © 2018-2020, Jingtang Zhang. ([MIT License](LICENSE))
 
 ---
 
