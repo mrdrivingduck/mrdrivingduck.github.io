@@ -1,6 +1,6 @@
 # mrdrivingduck.github.io
 
-🦆 My personal homepage.
+🦆 My personal blog.
 
 Created by : Mr Dk. 
 
@@ -10,7 +10,7 @@ Created by : Mr Dk.
 
 ## About
 
-The page is built by the private project _duckling_ . It was refactored to a dynamic blog system in the summer of 2019, using GitHub as back-end, supported by GitHub API v4.
+The page is built by the private project *duckling*. It was refactored to a dynamic blog system in the summer of 2019, using GitHub as back end, supported by GitHub API v4.
 
 ## Dependencies
 
